@@ -1,2 +1,2 @@
-# Tasks-reminder-app
-test plan for daily reminder app
+# Tasks-reminder-app   daily reminder app
+gives notification reminder throughout the day for various tasks
